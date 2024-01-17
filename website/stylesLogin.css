@@ -1,0 +1,141 @@
+body{
+    background-color: black;
+    background-image: url('/image/wlp.png');
+}
+
+.cover{
+    width: 400px;
+    height: 400px;
+    padding: 10px;
+    margin: 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #8400ff;
+    opacity: 0.4;
+    position: absolute;
+    top: 100px;
+    left: 450px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+
+p{
+    color: azure;
+}
+
+input[type="submit"]{
+    width: 200px;
+    padding: 10px;
+    border: none;
+    border-radius: 3px;
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.pinmasuk{
+    position: absolute;
+    top: 190px;
+    left: 456px;
+}
+
+input[type="submit"]:hover{
+    background-color: #0056b3;
+}
+
+input[type="password"]{
+    width: 300px;
+    padding: 10px;
+    border: none;
+    border-radius: 3px;
+    background-color: #ffffff;
+    color: #000000;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    -webkit-transition: background-color 0.3s;
+    -moz-transition: background-color 0.3s;
+    -ms-transition: background-color 0.3s;
+    -o-transition: background-color 0.3s;
+    position: absolute;
+    top: 100px;
+    left: 50px; 
+}
+
+input[type="text"]{
+    width: 100px;
+    padding: 10px;
+    border: none;
+    border-radius: 3px;
+    background-color: #ffffff;
+    color: #000000;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    -webkit-transition: background-color 0.3s;
+    -moz-transition: background-color 0.3s;
+    -ms-transition: background-color 0.3s;
+    -o-transition: background-color 0.3s;
+    position: absolute;
+    top: -10px;
+    left: 0px; 
+
+}
+
+img{
+    width: 40px;
+    position: absolute;
+    top: 99px;
+    left: 375px;
+}
+
+label{
+    color: #fff;
+    position: absolute;
+    left: 50px;
+    top:70px;
+    width: 200px;
+}
+
+form{
+    position: absolute;
+    top: 390px;
+    left: 575px;
+    width: 100px;
+}
+input[type="submit"]{
+    position: absolute;
+    top: 350px;
+    left: 560px;
+}
+
+.tambahan{
+    position: absolute;
+    top: 650px;
+    left: 595px;
+}
+
+.kembali{
+    position: absolute;
+    left: 500px;
+    top: 500px;
+    width: 100px;
+}
+
+a{
+    color: #fff;
+}
+
+.M1{
+    position: absolute;
+    top: 130px;
+    left: 456px;
+}
+
+.M2{
+    position: absolute;
+    top: 230px;
+    left: 456px;
+}
+
